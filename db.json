@@ -1,0 +1,22 @@
+{
+  "fichas": [
+    {
+      "dt_inclusao": "dd/MM/yyyy hh:mm:ss",
+      "dt_validade": "dd/MM/yyyy hh:mm:ss",
+      "status_profissional": "",
+      "ativo": true,
+      "renovar": true,
+      "cliente": {
+        "codigo": 111,
+        "razao_social": "AAAA"
+      },
+      "usuario_solicitacao": {
+        
+      },
+      "profissional":{
+      },
+      "produto":{
+      }
+    }
+  ]
+}
